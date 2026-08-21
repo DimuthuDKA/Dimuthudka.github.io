@@ -56,12 +56,12 @@ footer {
 }
 
 .publication-list {
-    padding-left: 20px;
+    padding-left: 25px;
 }
 
 .publication-list li {
     margin-bottom: 18px;
-    line-height: 1.7;
+    line-height: 1.25;
 }
 
 .publication-list a {
