@@ -54,3 +54,26 @@ footer {
     border-top: 1px solid #ddd;
     color: #777;
 }
+
+.publication-list {
+    padding-left: 25px;
+}
+
+.publication-list li {
+    margin-bottom: 18px;
+    line-height: 1.7;
+}
+
+.publication-list a {
+    text-decoration: none;
+}
+
+.publication-list a:hover {
+    text-decoration: underline;
+}
+
+.publication-tag {
+    font-weight: 600;
+    margin-left: 4px;
+}
+
